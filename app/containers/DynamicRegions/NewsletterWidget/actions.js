@@ -1,0 +1,5 @@
+/*
+ *
+ * NewsletterWidget actions
+ *
+ */

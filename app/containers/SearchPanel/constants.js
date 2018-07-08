@@ -1,0 +1,1 @@
+export const TOGGLE_SEARCHPANEL = 'ez2/SearchPanel/TOGGLE_SEARCHPANEL';

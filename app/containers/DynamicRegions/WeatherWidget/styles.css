@@ -1,0 +1,60 @@
+.homePage { /* stylelint-disable */
+
+}
+
+.weatherWrap {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 10pt;
+  background: #e8e8e8;
+  padding: 5px 13px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  float: left;
+  width: 100%;
+  height: 90px;
+  border: 1px solid #e6e6e6;
+}
+
+.weatherLeft {
+  float: left;
+  width: 110px;
+}
+
+.weatherRight{}
+
+.input input{
+  background: white !important;
+  width: 100px !important;
+  height: 27px;
+  padding: 6px;
+  border: 1px solid #cecece;
+  box-shadow: none;
+}
+.goBtn {
+  height: 27px;
+  line-height: 13px;
+  width: 40px;
+  text-align: center;
+  padding: 0;
+  background: #740d10;
+  color: #fff;
+  transition: 0.2s all;
+}
+.goBtn:hover {
+  background: #48080a;
+  color: #fff;
+}
+.weatherDateTime{
+  float: right;
+}
+.weatherLoc {
+  bottom: 21px;
+  position: absolute;
+  right: 26px;
+}
+.temp {
+  font-size: 54px;
+  position: relative;
+  bottom: 10px;
+  color: #050f3c;
+}

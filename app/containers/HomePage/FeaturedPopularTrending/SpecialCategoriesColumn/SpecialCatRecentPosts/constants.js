@@ -1,0 +1,2 @@
+export const SPECIALCATRECENTPOSTSDATALOADED = 'containers/DynamicRegions/SpecialCatRecentPosts/SPECIALCATRECENTPOSTSDATALOADED';
+export const GETSPECIALRECENTPOSTSFORTAG = 'containers/DynamicRegions/SpecialCatRecentPosts/GETSPECIALRECENTPOSTSFORTAG';

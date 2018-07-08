@@ -1,0 +1,3 @@
+export const LOAD_HOMEFEATURED4COL = 'containers/HomePage/HomeFeatured4Col/LOAD_HOMEFEATURED4COL';
+export const LOAD_HOMEFEATURED4COL_SUCCESS = 'containers/HomePage/HomeFeatured4Col/LOAD_HOMEFEATURED4COL_SUCCESS';
+export const LOAD_HOMEFEATURED4COL_FAILURE = 'containers/HomePage/HomeFeatured4Col/LOAD_HOMEFEATURED4COL_FAILURE';
